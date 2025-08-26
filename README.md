@@ -40,7 +40,7 @@
   <div id="label-container"></div>
 
   <script type="text/javascript">
-    const URL = " teachablemachine.withgoogle.com/models/2Dmd12leA/";
+    const URL = "[teachablemachine.withgoogle.com/models/2Dmd12leA/](https://teachablemachine.withgoogle.com/models/2Dmd12leA/)";
 
     let model, webcam, labelContainer, maxPredictions;
 
